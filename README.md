@@ -1,4 +1,4 @@
-# js-vanilla-project
+# to-do-list
 to do list
 
 
