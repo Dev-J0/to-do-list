@@ -2,4 +2,4 @@
 to do list
 
 
-https://d0bsidian.github.io/js-vanilla-project/
+https://d0bsidian.github.io/to-do-list/
